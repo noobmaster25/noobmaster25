@@ -1,16 +1,23 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**noobmaster25/noobmaster25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Luis Angel 
+## Junior Developer 👨‍💻
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/LinkedIn-SosaFloresLuisAngel-blue)](https://https://www.linkedin.com/in/sosa-flores-luis-angel-643999211/)
+[![](https://img.shields.io/badge/Gmail-sosafloresluisangel@gmail.com-red)](mailto:sosafloresluisangel@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const angel = {
+    angelMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        backEnd: ["java"],
+        fronEnd: ["react","javaScript","html","css"],
+        database: ["mongo","mySql"]
+    },
+}
+```
+
+---
