@@ -15,7 +15,7 @@ const angel = {
     technologies:{
         backEnd: ["java"],
         fronEnd: ["react","javaScript","html","css"],
-        database: ["mongo","mySql"]
+        database: ["mySql"]
     },
 }
 ```
