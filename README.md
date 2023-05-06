@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 I'm Luis Angel 
-## Junior Developer 👨‍💻
+## Java Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-SosaFloresLuisAngel-blue)](https://https://www.linkedin.com/in/sosa-flores-luis-angel-643999211/)
 [![](https://img.shields.io/badge/Gmail-sosafloresluisangel@gmail.com-red)](mailto:sosafloresluisangel@gmail.com)
@@ -13,7 +13,7 @@ I'm Luis Angel
 const angel = {
     angelMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["java"],
+        backEnd: ["java","spring boot"],
         fronEnd: ["react","javaScript","html","css"],
         database: ["mySql"]
     },
