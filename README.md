@@ -14,7 +14,7 @@ const angel = {
     angelMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
         backEnd: ["java","spring boot"],
-        fronEnd: ["react","javaScript","html","css"],
+        fronEnd: [""javaScript","html","css"],
         database: ["mySql"]
     },
 }
